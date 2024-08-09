@@ -1,8 +1,0 @@
-const markedAsVisitedButton = ({handleButtonClick}) => {
-
-    return(
-    <button onClick={handleButtonClick}>Marked as Visited</button>
-    )
-}
-
-export default markedAsVisitedButton;
